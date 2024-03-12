@@ -1,0 +1,15 @@
+.myform {
+    display: block;
+    margin: auto;
+  }
+  .form-field {
+    padding: 10px;
+  }
+  .form-field > input {
+    display: block;
+    margin: auto;
+  }
+  .form-field > label {
+    display: block;
+    text-align: center;
+  }
